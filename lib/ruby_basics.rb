@@ -22,7 +22,7 @@ def last_evaluated_value
   return("expert")
 end
 
-def pizza_party (Flava ="Cheese")
+def pizza_party (name ="Cheese")
   return (Flava)
 
 end
